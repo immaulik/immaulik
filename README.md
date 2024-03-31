@@ -1,5 +1,5 @@
 
-**Hello, I'm Maulik Bhanderi!**
+**Hello, I'm Maulik Bhanderi\n**
 Experienced Flutter Developer with comprehensive knowledge of architecture, state management, and performance optimization. Skilled in project management, UI/UX Development database integration. Thrives in collaborative environments to create engaging mobile experiences. 
 
 
